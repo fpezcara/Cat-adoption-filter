@@ -19,7 +19,7 @@ const cats = [
       "Muy dulce y mimosa. Tiene seis dedos en una pata que asegura le dan superpoderes.",
     longDesc:
       "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
-    img: "http://www.pxleyes.com/images/contests/cats-3/fullsize/Grey-Cat-50c2a66f4ba12_hires.jpg",
+    img: "https://www.photos-public-domain.com/wp-content/uploads/2017/12/gray-cat-with-green-eyes.jpg",
     colour: ["gray"],
     gender: "f",
     available: true,
