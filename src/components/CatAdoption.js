@@ -57,6 +57,8 @@ const CatAdoption = () => {
           cats.filter((cat) => selectedOption.value === cat.name)
         );
         break;
+      default:
+        return filteredCats;
     }
   };
   return (
