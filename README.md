@@ -10,5 +10,5 @@ npm install
 
 npm start
 
-
+Or simply go here https://cat-adoption-filter.vercel.app/
 
